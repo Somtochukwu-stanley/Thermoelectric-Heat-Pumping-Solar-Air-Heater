@@ -51,6 +51,9 @@ Fabricated Prototype
 
 [![Fabricated Prototype](images/SAH.png)](images/SAH.png)
 
+Front View
+[![Fabricated Prototype](images/Assem%20front%20view.JPG)](images/Assem%20front%20view.JPG)
+
 Fully Assembled System
 
 [![Complete Assembly](images/Assembly%20full.JPG)](images/Assembly%20full.JPG)
