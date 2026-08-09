@@ -49,7 +49,7 @@ The developed system was tested and compared with a conventional solar air heate
 # Prototype
 Fabricated Prototype
 
-[![Fabricated Prototype](images/SAH.JPG)](images/SAH.JPG)
+[![Fabricated Prototype](images/SAH.png)](images/SAH.png)
 
 Fully Assembled System
 
