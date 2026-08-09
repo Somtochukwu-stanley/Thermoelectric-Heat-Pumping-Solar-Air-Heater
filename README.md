@@ -92,6 +92,3 @@ Somtochukwu Stanley Ezeugwu
 B.Eng Mechanical Engineering
 University of Nigeria, Nsukka
 
-A small improvement
-
-After you upload the images, place one prototype image immediately below the Project Highlights section. Recruiters often scan GitHub repositories quickly, and seeing the actual fabricated system near the top makes a much stronger impression than reading several paragraphs first.
