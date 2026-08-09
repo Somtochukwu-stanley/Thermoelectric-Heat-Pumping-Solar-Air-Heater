@@ -53,7 +53,7 @@ Fabricated Prototype
 
 Fully Assembled System
 
-![Complete Assembly](images/Assembly full.JPG)
+[![Complete Assembly](images/Assembly%20full.JPG)](images/Assembly%20full.JPG)
 
 Key Results
 Performance Metric	Result
