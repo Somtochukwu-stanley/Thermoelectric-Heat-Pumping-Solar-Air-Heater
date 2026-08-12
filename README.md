@@ -9,6 +9,9 @@ Design, fabrication, and performance evaluation of a thermoelectric heat-pumping
 * Recorded a peak efficiency of 74%, compared to 57% for the conventional system.
 * Improved outlet air temperature by approximately 4–6°C
 
+[![Fabricated Prototype](images/SAH.png)](images/SAH.png)
+
+
 # Overview
 This project focused on the development of a thermoelectric heat-pumping solar air heater aimed at improving the performance of conventional solar air heating systems. The system combines solar energy with thermoelectric heat-pumping technology to enhance heat transfer, increase outlet air temperature, and improve overall thermal efficiency.
 The project involved system design, prototype fabrication, experimental testing, data collection, performance evaluation, and comparison with a conventional solar air heater.
@@ -52,43 +55,50 @@ Fabricated Prototype
 [![Fabricated Prototype](images/SAH.png)](images/SAH.png)
 
 Front View
-[![Fabricated Prototype](images/Assem%20front%20view.JPG)](images/Assem%20front%20view.JPG)
+[![Front View](images/Assem%20front%20view.JPG)](images/Assem%20front%20view.JPG)
 
 Fully Assembled System
 
 [![Complete Assembly](images/Assembly%20full.JPG)](images/Assembly%20full.JPG)
 
-Key Results
-Performance Metric	Result
-Thermoelectric Modules	11 Modules
-Average Efficiency (Conventional SAH)	19%
-Average Efficiency (Developed System)	25%
-Efficiency Improvement	31.5%
-Peak Efficiency	74%
-Outlet Temperature Improvement	4–6°C
+# Key Results
+## Performance Metric	Result
+* No. of Thermoelectric Modules:	11 Modules
+* Average Efficiency (Conventional SAH):	19%
+* Average Efficiency (Developed System):	25%
+* Efficiency Improvement:	31.5%
+* Peak Efficiency:	74%
+* Outlet Temperature Improvement:	4–6°C
 
 Results obtained from experimental testing demonstrated that the thermoelectric heat-pumping solar air heater outperformed the conventional solar air heater in both thermal efficiency and outlet air temperature.
 
-Technical Skills Demonstrated
-Engineering Skills
-Mechanical Design
-Heat Transfer Analysis
-Thermodynamic Analysis
-Fluid Mechanics Applications
-Prototype Fabrication
-Experimental Testing
-Analytical Skills
-Data Collection
-Performance Evaluation
-Engineering Calculations
-Technical Reporting
-Research Documentation
-Repository Contents
+## Technical Skills Demonstrated
+### Engineering Skills
+* Mechanical Design
+* Heat Transfer Analysis
+* Thermodynamic Analysis
+* Fluid Mechanics Applications
+* Prototype Fabrication
+* Experimental Testing
 
 
-Author
+### Analytical Skills
+* Data Collection
+* Performance Evaluation
+* Engineering Calculations
+* Technical Reporting
+* Research Documentation
+* Repository Contents
 
-Somtochukwu Stanley Ezeugwu
-B.Eng Mechanical Engineering
-University of Nigeria, Nsukka
+
+## My Contributions
+
+* Participated in the design and development of the thermoelectric heat-pumping solar air heater.
+* Contributed to CAD modelling and engineering analysis.
+* Assisted in prototype fabrication and assembly.
+* Participated in experimental testing and performance evaluation.
+* Contributed to technical documentation and project reporting.
+  
+B.Eng Mechanical Engineering,
+University of Nigeria, Nsukka.
 
