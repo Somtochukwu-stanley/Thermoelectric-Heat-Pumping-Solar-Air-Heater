@@ -98,6 +98,13 @@ Results obtained from experimental testing demonstrated that the thermoelectric 
 * Assisted in prototype fabrication and assembly.
 * Participated in experimental testing and performance evaluation.
 * Contributed to technical documentation and project reporting.
+
+
+## Project Documents
+
+* [Final Year Project Report](B.Eng_Project_Report.pdf)
+* [Project Manuscript](Project_Manuscript.pdf)
+
   
 B.Eng Mechanical Engineering,
 University of Nigeria, Nsukka.
