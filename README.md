@@ -103,7 +103,7 @@ Results obtained from experimental testing demonstrated that the thermoelectric 
 ## Project Documents
 
 * [Final Year Project Report](B.Eng_Project_Report.pdf)
-* [Project Manuscript](Project_Manuscript.pdf)
+* [Final Year Project Report](Project_Manuscript.pdf)
 
   
 B.Eng Mechanical Engineering,
